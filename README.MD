@@ -71,11 +71,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 - nvmwhoiam
 - GitHub: <a href="https://github.com/nvmwhoiam">Your GitHub Profile</a>
-
-### Instructions:
-
-- Replace `nvmwhoiam` in the GitHub profile link under "Author" with your actual GitHub username.
-- Ensure your `quiz_data.json` file is correctly formatted with your quiz questions, options, and answers.
-- Customize any other parts of the `README.md` file as per your project's specific details and needs.
-
-This `README.md` is designed to be informative and easy to follow for anyone wanting to understand and use your Python quiz application.
