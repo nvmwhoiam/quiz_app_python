@@ -24,8 +24,8 @@ The project consists of the following files:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/nvmwhoiam/python-quiz.git
-   cd python-quiz
+   git clone https://github.com/nvmwhoiam/quiz_app_python.git
+   cd quiz_app_python
    ```
 
 2. **Install dependencies (none required):**
