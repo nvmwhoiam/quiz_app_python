@@ -1,0 +1,204 @@
+{
+    "quiz": [
+        {
+            "question": "What is the capital of Japan?",
+            "options": [
+                "Tokyo",
+                "Kyoto",
+                "Osaka",
+                "Hiroshima"
+            ],
+            "answer": "Tokyo"
+        },
+        {
+            "question": "Which planet is the hottest in the solar system?",
+            "options": [
+                "Mercury",
+                "Venus",
+                "Earth",
+                "Mars"
+            ],
+            "answer": "Venus"
+        },
+        {
+            "question": "What is the smallest country in the world?",
+            "options": [
+                "Vatican City",
+                "Monaco",
+                "San Marino",
+                "Liechtenstein"
+            ],
+            "answer": "Vatican City"
+        },
+        {
+            "question": "Who painted the Mona Lisa?",
+            "options": [
+                "Vincent van Gogh",
+                "Pablo Picasso",
+                "Leonardo da Vinci",
+                "Claude Monet"
+            ],
+            "answer": "Leonardo da Vinci"
+        },
+        {
+            "question": "What is the largest desert in the world?",
+            "options": [
+                "Sahara",
+                "Arabian",
+                "Gobi",
+                "Antarctic"
+            ],
+            "answer": "Sahara"
+        },
+        {
+            "question": "What is the currency of the United Kingdom?",
+            "options": [
+                "Dollar",
+                "Euro",
+                "Pound",
+                "Yen"
+            ],
+            "answer": "Pound"
+        },
+        {
+            "question": "Who is known as the father of computers?",
+            "options": [
+                "Charles Babbage",
+                "Alan Turing",
+                "Bill Gates",
+                "Steve Jobs"
+            ],
+            "answer": "Charles Babbage"
+        },
+        {
+            "question": "What is the main ingredient in traditional Japanese miso soup?",
+            "options": [
+                "Seaweed",
+                "Miso paste",
+                "Tofu",
+                "Soy sauce"
+            ],
+            "answer": "Miso paste"
+        },
+        {
+            "question": "Which element has the chemical symbol 'O'?",
+            "options": [
+                "Hydrogen",
+                "Oxygen",
+                "Gold",
+                "Silver"
+            ],
+            "answer": "Oxygen"
+        },
+        {
+            "question": "What is the longest river in the world?",
+            "options": [
+                "Amazon",
+                "Nile",
+                "Yangtze",
+                "Mississippi"
+            ],
+            "answer": "Nile"
+        },
+        {
+            "question": "Who wrote the play 'Romeo and Juliet'?",
+            "options": [
+                "William Shakespeare",
+                "Jane Austen",
+                "Mark Twain",
+                "Charles Dickens"
+            ],
+            "answer": "William Shakespeare"
+        },
+        {
+            "question": "What is the smallest prime number?",
+            "options": [
+                "1",
+                "2",
+                "3",
+                "5"
+            ],
+            "answer": "2"
+        },
+        {
+            "question": "Which country is known as the Land of the Rising Sun?",
+            "options": [
+                "China",
+                "Japan",
+                "South Korea",
+                "Thailand"
+            ],
+            "answer": "Japan"
+        },
+        {
+            "question": "Who discovered penicillin?",
+            "options": [
+                "Alexander Fleming",
+                "Marie Curie",
+                "Isaac Newton",
+                "Albert Einstein"
+            ],
+            "answer": "Alexander Fleming"
+        },
+        {
+            "question": "What is the largest planet in our solar system?",
+            "options": [
+                "Earth",
+                "Jupiter",
+                "Saturn",
+                "Neptune"
+            ],
+            "answer": "Jupiter"
+        },
+        {
+            "question": "Who is the author of the 'Harry Potter' series?",
+            "options": [
+                "J.R.R. Tolkien",
+                "George R.R. Martin",
+                "J.K. Rowling",
+                "Suzanne Collins"
+            ],
+            "answer": "J.K. Rowling"
+        },
+        {
+            "question": "What is the chemical formula for water?",
+            "options": [
+                "H2O",
+                "CO2",
+                "O2",
+                "NaCl"
+            ],
+            "answer": "H2O"
+        },
+        {
+            "question": "Who invented the telephone?",
+            "options": [
+                "Alexander Graham Bell",
+                "Thomas Edison",
+                "Nikola Tesla",
+                "Guglielmo Marconi"
+            ],
+            "answer": "Alexander Graham Bell"
+        },
+        {
+            "question": "What is the hardest natural substance on Earth?",
+            "options": [
+                "Gold",
+                "Iron",
+                "Diamond",
+                "Graphite"
+            ],
+            "answer": "Diamond"
+        },
+        {
+            "question": "What is the capital of Canada?",
+            "options": [
+                "Toronto",
+                "Vancouver",
+                "Ottawa",
+                "Montreal"
+            ],
+            "answer": "Ottawa"
+        }
+    ]
+}
