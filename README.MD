@@ -16,7 +16,7 @@ This Python application simulates a simple quiz where users are presented with m
 
 The project consists of the following files:
 
-- `quiz.py`: The main Python script that runs the quiz application.
+- `app.py`: The main Python script that runs the quiz application.
 - `quiz_data.json`: JSON file containing quiz questions, options, and answers.
 
 ## Installation and Usage
@@ -34,15 +34,15 @@ This project does not require any external dependencies.
 
 3. **Run the quiz:**
 
-Ensure quiz_data.json is in the same directory as quiz.py.
+Ensure quiz_data.json is in the same directory as app.py.
 
 ```bash
-python quiz.py
+python app.py
 ```
 
 4. **Follow on-screen instructions:**
 
-Ensure quiz_data.json is in the same directory as quiz.py.
+Ensure quiz_data.json is in the same directory as app.py.
 
 - Answer each question by entering the number corresponding to your choice.
 - At the end of the quiz, your total score will be displayed along with a thank you message.
