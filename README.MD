@@ -70,4 +70,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Author
 
 - nvmwhoiam
-- GitHub: <a href="https://github.com/nvmwhoiam">Your GitHub Profile</a>
+- GitHub: <a href="https://github.com/nvmwhoiam">GitHub Profile</a>
